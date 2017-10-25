@@ -1,0 +1,30 @@
+Arguments: 
+  /usr/local/Cellar/node/8.8.0/bin/node /usr/local/Cellar/yarn/1.2.1/libexec/bin/yarn.js add --dev webpack-dev-server
+
+PATH: 
+  /usr/local/opt/rbenv/versions/2.3.4/lib/ruby/gems/2.3.0/bin:/usr/local/opt/rbenv/versions/2.3.4/bin:/usr/local/Cellar/rbenv/1.1.1/libexec:./bin:/usr/local/opt/rbenv/shims:/usr/local/opt/rbenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/opt/ImageMagick/bin:/usr/local/sbin
+
+Yarn version: 
+  1.2.1
+
+Node version: 
+  8.8.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/webpack-dev-server: ETIMEDOUT
+      at Timeout._onTimeout (/usr/local/Cellar/yarn/1.2.1/libexec/lib/cli.js:123675:19)
+      at ontimeout (timers.js:471:11)
+      at tryOnTimeout (timers.js:306:5)
+      at Timer.listOnTimeout (timers.js:266:5)
